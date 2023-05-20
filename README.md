@@ -1,5 +1,5 @@
 ![logo](https://github.com/Mayuri13/Mayuri13/blob/main/github-01.png)
-<h1 align="center">Hi 👋, I'm Mayuri Goswami</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=50>, I'm Mayuri Goswami</h1>
 <h3 align="center">I am a Computer Science and Engineering undergraduate passionate about exploring the realms of technology and building innovative solutions. My coursework has equipped me with a solid foundation in programming, data structures, algorithms, software engineering, databases, computer networks, etc. I have also gained hands-on experience with various programming languages such as Java, C++, and web development technologies like HTML, CSS, and JavaScript.</h3>
 
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="400"/>
@@ -37,4 +37,6 @@
 <a href="https://www.hackerrank.com/mayuri_goswami21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayuri_goswami21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayuri_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayuri_goswami" height="30" width="40" /></a>
 </p>
-![](https://leetcard.jacoblin.cool/Mayuri_Goswami?ext=heatmap)
+<div>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Mayuri_Goswami?ext=heatmap)
+ </div>
