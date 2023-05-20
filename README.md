@@ -37,3 +37,4 @@
 <a href="https://www.hackerrank.com/mayuri_goswami21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayuri_goswami21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayuri_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayuri_goswami" height="30" width="40" /></a>
 </p>
+![](https://leetcard.jacoblin.cool/Mayuri_Goswami?ext=heatmap)
