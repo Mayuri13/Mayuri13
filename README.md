@@ -1,3 +1,4 @@
+![logo](https://github.com/Mayuri13/Mayuri13/blob/main/github-01.png)
 <h1 align="center">Hi 👋, I'm Mayuri Goswami</h1>
 <h3 align="center">I am a Computer Science and Engineering undergraduate passionate about exploring the realms of technology and building innovative solutions. My coursework has equipped me with a solid foundation in programming, data structures, algorithms, software engineering, databases, and computer networks. I have also gained hands-on experience with various programming languages such as Java, C++, and web development technologies like HTML, CSS, and JavaScript.</h3>
 
