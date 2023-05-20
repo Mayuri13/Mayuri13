@@ -1,6 +1,6 @@
 ![logo](https://github.com/Mayuri13/Mayuri13/blob/main/github-01.png)
 <h1 align="center">Hi 👋, I'm Mayuri Goswami</h1>
-<h3 align="center">I am a Computer Science and Engineering undergraduate passionate about exploring the realms of technology and building innovative solutions. My coursework has equipped me with a solid foundation in programming, data structures, algorithms, software engineering, databases, and computer networks. I have also gained hands-on experience with various programming languages such as Java, C++, and web development technologies like HTML, CSS, and JavaScript.</h3>
+<h3 align="center">I am a Computer Science and Engineering undergraduate passionate about exploring the realms of technology and building innovative solutions. My coursework has equipped me with a solid foundation in programming, data structures, algorithms, software engineering, databases, computer networks, etc. I have also gained hands-on experience with various programming languages such as Java, C++, and web development technologies like HTML, CSS, and JavaScript.</h3>
 
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="400"/>
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Web development and data structures and algorithms.**
 
-- 📫 How to reach me **mayuri.goswami2017@gmail.com**
+- 📫 Reach me at **mayuri.goswami2017@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rt_WlCUivPjPAiM7O5u5tGyScydHPZio/view?usp=share_link](https://drive.google.com/file/d/1rt_WlCUivPjPAiM7O5u5tGyScydHPZio/view?usp=share_link)
 <br>
