@@ -18,7 +18,7 @@
 
 - 📫 Reach me at **mayuri.goswami2017@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rt_WlCUivPjPAiM7O5u5tGyScydHPZio/view?usp=share_link](https://drive.google.com/file/d/1rt_WlCUivPjPAiM7O5u5tGyScydHPZio/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1aIXdF6O-5AyntwTfvsohTBZ3j9KR4Lzr/view
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
