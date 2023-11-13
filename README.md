@@ -17,8 +17,6 @@
 - 💬 Ask me about **Web development and data structures and algorithms.**
 
 - 📫 Reach me at **mayuri.goswami2017@gmail.com**
-
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/19KmfQFw-G7222C2DdMZwhmHWjUdHDa_W/view?usp=drive_link)
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
