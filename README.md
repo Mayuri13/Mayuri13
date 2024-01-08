@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **backend technologies**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio.mayurigoswami.repl.co/](https://personal-portfolio.mayurigoswami.repl.co/)
-
 - 💬 Ask me about **Web development and data structures and algorithms.**
+
+- :briefcase: My latest project :point_right: [**Homyz**](https://real-estate-full-stack-snowy.vercel.app/):house_with_garden:
 
 - 📫 Reach me at **mayuri.goswami2017@gmail.com**
 <br>
