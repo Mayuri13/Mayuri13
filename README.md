@@ -1,6 +1,10 @@
 ![logo](https://github.com/Mayuri13/Mayuri13/blob/main/github-01.png)
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=50>, I'm Mayuri Goswami</h1>
-<h3 align="center">I am a Computer Science and Engineering undergraduate passionate about exploring the realms of technology and building innovative solutions. My coursework has equipped me with a solid foundation in programming, data structures, algorithms, software engineering, databases, computer networks, etc. I have also gained hands-on experience with various programming languages such as Java, C++, and web development technologies like HTML, CSS, and JavaScript.</h3>
+<h1 align="center">Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=50>, I'm Mayuri Goswami</h1>
+<h3 align="center">A passionate Full-Stack Developer focused on building scalable web platforms and enhancing Developer Experience. Currently working as a Software Engineer at Natwest Groups, I'm driven by clean code, reusability, and automation. 🛠️ Skilled in React, Node.js, TypeScript, and Java, I love turning complex problems into elegant solutions. My background in Computer Science (NIT Silchar) and hands-on experience with modern tech stacks empower me to build impactful tools for developers and users alike.
+
+🚀 Whether it’s crafting custom plugins, streamlining internal tools, or solving deep-rooted tech challenges — I’m all about shipping value.
+
+Let’s connect and code something awesome!</h3>
 
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="400"/>
 
@@ -8,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Worked as a Software Development Intern at **NatWest Groups**
+- 🔭 Working as a Software Engineer at **NatWest Groups**.
 
-- 🌱 I’m currently learning **backend technologies**
+- 🌱 I’m currently building Developer Portal using **Backstage**.
 
 - 💬 Ask me about **Web development and data structures and algorithms.**
 
